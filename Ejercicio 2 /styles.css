@@ -1,0 +1,19 @@
+.impar {
+    font-family:  Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(242, 166, 166);
+}
+
+#uno {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.distinto {
+    font-size: 24px;
+}
+
+#dos {
+    background-color: hsl(134, 87%, 66%);
+    font-size: 24px;
+    font-weight: bold;
+}
